@@ -5,13 +5,21 @@ Desenvolvi um Dashboard utilizando ReactJs e TypeScript. Fiz um layout responsiv
 ## Principais características:
 
 ✅ Preparando o ambiente do desenvolvimento.
+
 ✅ Desenvolvendo o layout do dashboard.
+
 ✅ Rotas e navegação de aplicação.
+
 ✅ Desenvolvendo as funcionalidades das listagens de movimentações financeiras.
+
 ✅ Desenvolvendo o dashboard.
+
 ✅ Criando o tema dark e light do dashboard.
+
 ✅ Autenticação no dashboard. 
+
 ✅ Deixando o layout do nosso dashboard responsivo.
+
 ✅ Aplicando animações no dashboard.
 
 ## O que usamos:
