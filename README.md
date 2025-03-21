@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+# React e TypeScript: desenvolvendo um Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Desenvolvi um Dashboard utilizando ReactJs e TypeScript. Fiz um layout responsivo com Grid Layout e Flexbox. Nesse projeto, além de criar gráficos, também criei temas de cores e permitindo que o usuário pudesse trocar o tema (dark e light). E também apliquei animações. Não sei bando de dados nesta aplicação.
 
-## Available Scripts
+## Principais características:
 
-In the project directory, you can run:
+✅ Preparando o ambiente do desenvolvimento.
+✅ Desenvolvendo o layout do dashboard.
+✅ Rotas e navegação de aplicação.
+✅ Desenvolvendo as funcionalidades das listagens de movimentações financeiras.
+✅ Desenvolvendo o dashboard.
+✅ Criando o tema dark e light do dashboard.
+✅ Autenticação no dashboard. 
+✅ Deixando o layout do nosso dashboard responsivo.
+✅ Aplicando animações no dashboard.
 
-### `npm start`
+## O que usamos:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React
+- ReactJs
+- JavaScript
+- CSS3
+- HTML5
+- TypeScript
+- Styled Components
+- FlexBox e Grid
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Imagens:
 
-### `npm test`
+![Captura de tela 2025-03-21 171721](https://github.com/user-attachments/assets/36d9750d-a615-404a-adfd-e5642537f4ff)
+![Captura de tela 2025-03-21 171544](https://github.com/user-attachments/assets/0723ccd2-10cb-4190-9d62-616b51fcf57f)
+![Captura de tela 2025-03-21 171558](https://github.com/user-attachments/assets/a87a4d7a-903f-469a-aa14-0c51939108a6)
+![Captura de tela 2025-03-21 171626](https://github.com/user-attachments/assets/60e02d0a-e0e8-46d8-b258-0b1403843cef)
+![Captura de tela 2025-03-21 171640](https://github.com/user-attachments/assets/4586219e-ab95-4b88-832b-dedc0da0380e)
+![Captura de tela 2025-03-21 171703](https://github.com/user-attachments/assets/df0c97ec-abd2-48a2-a91f-ab4ee0a17628)
+![Captura de tela 2025-03-21 164918](https://github.com/user-attachments/assets/3e4de804-4c7c-45db-a555-a19a97ecc2e9)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Vídeo rodando e usando o Dashboard.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
