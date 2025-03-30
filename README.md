@@ -45,5 +45,8 @@ Desenvolvi um Dashboard utilizando ReactJs e TypeScript. Fiz um layout responsiv
 
 ## Vídeo rodando e usando o Dashboard.
 
+https://github.com/user-attachments/assets/a4be9f2a-692c-4c38-8c35-08e0467429ca
+
+
 
 
